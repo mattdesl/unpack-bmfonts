@@ -1,0 +1,48 @@
+{
+  "name": "unpack-bmfonts",
+  "version": "1.0.0",
+  "description": "unpacks a binary buffer of packed BMFont objects",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "parse-bmfont-binary": "^1.0.5"
+  },
+  "devDependencies": {
+    "parse-bmfont-ascii": "^1.0.6",
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "pack",
+    "unpack",
+    "fonts",
+    "bmfont",
+    "bm",
+    "font",
+    "bitmap",
+    "text",
+    "glyph",
+    "glyphs",
+    "angel",
+    "code",
+    "angelcode",
+    "bmfonts",
+    "binary",
+    "bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/unpack-bmfonts.git"
+  },
+  "homepage": "https://github.com/mattdesl/unpack-bmfonts",
+  "bugs": {
+    "url": "https://github.com/mattdesl/unpack-bmfonts/issues"
+  }
+}
